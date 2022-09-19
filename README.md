@@ -6,7 +6,7 @@
 
 * 👨🏾‍💻 Data Scientist 🥰.
 * 📚 Researcher.
-* 👨🏾‍🏫 Teacher.
+* 👨🏾‍🏫 Professor.
 * 👨🏾‍🎓 Bachelor in Mechatronic Engineering - UEA.
 * 🎓 Master in Mechanical Engineering - UNICAMP.
 * 🍾 PHD Student in Mechanical Engineering - UNICAMP.
